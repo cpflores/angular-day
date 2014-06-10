@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "screencastsController.js",
+  "sourceRoot": "",
+  "sources": [
+    "screencastsController.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,MAAA,WAAA;;AAAA,EAAM;6BAAN;;uBAAA;;MAAA,CAAA;;AAAA,EAEA,OAAO,CAAC,MAAR,CAAe,KAAf,CAAqB,CAAC,UAAtB,CAAiC,uBAAjC,EAA0D,CAAC,WAAD,CAA1D,CAFA,CAAA;AAAA"
+}

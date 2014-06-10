@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "youTubeAPIInitialize.js",
+  "sourceRoot": "",
+  "sources": [
+    "youTubeAPIInitialize.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,MAAA,WAAA;;AAAA,EAAM;AACQ,IAAA,qBAAC,aAAD,GAAA;AACZ,MAAA,aAAa,CAAC,GAAd,CAAkB,8BAAlB,CAAA,CADY;IAAA,CAAb;;uBAAA;;MADD,CAAA;;AAAA,EAIA,OAAO,CAAC,MAAR,CAAe,KAAf,CAAqB,CAAC,GAAtB,CAA0B,CAAC,eAAD,EAAkB,WAAlB,CAA1B,CAJA,CAAA;AAAA"
+}

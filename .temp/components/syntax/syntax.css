@@ -1,0 +1,11 @@
+pre.prettyprint code {
+  white-space: pre;
+  word-wrap: normal;
+}
+pre.prettyprint code .com {
+  color: #998;
+}
+pre.prettyprint .linenums li {
+  list-style-type: inherit;
+}
+/*# sourceMappingURL=data:application/json,%7B%22version%22%3A3%2C%22sources%22%3A%5B%22components%2Fsyntax%2Fsyntax.less%22%5D%2C%22names%22%3A%5B%5D%2C%22mappings%22%3A%22AACC%2CGAAC%2CYAEA%3BEACC%2CgBAAA%3BEACA%2CiBAAA%3B%3BAAJF%2CGAAC%2CYAEA%2CKAKC%3BEACC%2CWAAA%3B%3BAARH%2CGAAC%2CYAYA%2CUAEC%3BEACC%2CwBAAA%22%7D */

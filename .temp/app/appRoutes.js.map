@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "appRoutes.js",
+  "sourceRoot": "",
+  "sources": [
+    "appRoutes.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,MAAA,SAAA;;AAAA,EAAM;AACQ,IAAA,mBAAC,cAAD,GAAA;AACZ,MAAA,cACA,CAAC,SADD,CAEC;AAAA,QAAA,UAAA,EAAY,GAAZ;OAFD,CAAA,CADY;IAAA,CAAb;;qBAAA;;MADD,CAAA;;AAAA,EAMA,OAAO,CAAC,MAAR,CAAe,KAAf,CAAqB,CAAC,MAAtB,CAA6B,CAAC,gBAAD,EAAmB,SAAnB,CAA7B,CANA,CAAA;AAAA"
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "file": "readmeController.js",
+  "sourceRoot": "",
+  "sources": [
+    "readmeController.coffee"
+  ],
+  "names": [],
+  "mappings": "AAAA;AAAA,MAAA,MAAA;;AAAA,EAAM;wBAAN;;kBAAA;;MAAA,CAAA;;AAAA,EAEA,OAAO,CAAC,MAAR,CAAe,KAAf,CAAqB,CAAC,UAAtB,CAAiC,kBAAjC,EAAqD,CAAC,MAAD,CAArD,CAFA,CAAA;AAAA"
+}
